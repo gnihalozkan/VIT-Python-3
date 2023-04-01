@@ -29,3 +29,6 @@ sayilar=[]
 sayilar.append(liste[3:7])
 print(len(sayilar))
 
+a=[i for i in range(101) if i%10==0]
+print(a)
+
